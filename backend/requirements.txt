@@ -219,7 +219,7 @@ tensorboardX==2.6.2.2
 threadpoolctl==3.5.0
 tiktoken==0.7.0
 toml==0.10.2
-torch==2.4.0
+torch==2.13.0
 torch-audiomentations==0.11.1
 torch-pitch-shift==1.2.4
 torchaudio==2.4.0
