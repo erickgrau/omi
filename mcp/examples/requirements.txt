@@ -93,7 +93,7 @@ pillow==11.2.1
 propcache==0.3.1
 protobuf==6.30.2
 pyarrow==19.0.1
-pyasn1==0.6.1
+pyasn1==0.6.4
 pyasn1_modules==0.4.2
 pydantic==2.11.4
 pydantic-settings==2.9.1
