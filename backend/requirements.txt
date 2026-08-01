@@ -158,7 +158,7 @@ pyannote.database==5.1.0
 pyannote.metrics==3.2.1
 pyannote.pipeline==3.0.1
 pyarrow==17.0.0
-pyasn1==0.6.0
+pyasn1==0.6.4
 pyasn1_modules==0.4.0
 pycparser==2.22
 pydantic==2.8.2
