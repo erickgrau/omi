@@ -224,7 +224,7 @@ torch-audiomentations==0.11.1
 torch-pitch-shift==1.2.4
 torchaudio==2.4.0
 torchmetrics==1.4.1
-tornado==6.4.1
+tornado==6.5.8
 tqdm==4.66.5
 traitlets==5.14.3
 typer==0.12.3
